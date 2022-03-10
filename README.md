@@ -70,3 +70,23 @@ If you don’t receive an answer, or if you remain stuck, please file an issue, 
 
 <hr>
 
+#### Overview
+
+Now that you're set up, let's get an overview of Swift!
+
+#### What Is Swift?
+
+[Apple defines Swift as](https://developer.apple.com/swift/): "*Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.*"
+
+Swift lets you compose complex UIs from small and isolated pieces of code called "views".
+
+Swift has a few different kinds of views (TODO really?), but we'll start with `ContentView.View`:
+
+```Swift
+// todo open a new swift project and copy that shit here
+
+```
+
+
+
+
